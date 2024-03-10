@@ -1,0 +1,14 @@
+{% extends 'main.html' %}
+{% block title %}
+	ThemesPage
+{% endblock %}
+
+{% block content %}
+    <div class="container">
+    <ul class="list-group">
+         {% for lesson in lessons %}
+              <li class="list-group-item"><ol>{{ lesson }}</ol></li>
+          {% endfor %}
+    </ul>
+    </div>
+{% endblock %}

@@ -1,0 +1,15 @@
+{% extends 'main.html' %}
+
+{% block title %}
+	Homeworkpage
+{% endblock %}
+
+{% block content %}
+	 <div class="container">
+    <ul class="list-group">
+         {% for homework in homeworks %}
+              <li class="list-group-item"><ol>{{ homework }}</ol></li>
+          {% endfor %}
+    </ul>
+    </div>
+{% endblock %}

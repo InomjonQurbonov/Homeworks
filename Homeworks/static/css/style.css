@@ -1,0 +1,9 @@
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card {
+    flex: 1 0 21%;
+}

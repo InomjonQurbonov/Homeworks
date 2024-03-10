@@ -1,0 +1,17 @@
+{% extends 'main.html' %} <!-- Extends from main.html -->
+
+{% block title %} <!-- Starts title block -->
+	PupilsPage <!-- Page title -->
+{% endblock %} <!-- Ends title block -->
+
+{% block content %} <!-- Starts content block -->
+    <ul class="list-group"> <!-- Starts an unordered list -->
+        {% for pupil in pupils %} <!-- Starts a loop over 'points' -->
+            <li class="list-group-item"> <!-- List item for each 'point' -->
+                <a href="{% url 'points' pupil.id %}"> <!-- Link to the detail view of 'point' -->
+                    {{ pupil.name }} <!-- Display 'point' name -->
+                </a>
+            </li>
+        {% endfor %} <!-- Ends the loop -->
+    </ul>
+{% endblock %} <!-- Ends content block -->

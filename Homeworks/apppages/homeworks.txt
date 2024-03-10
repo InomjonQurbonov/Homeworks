@@ -1,0 +1,22 @@
+Data Analysis with Pandas: Titanic datasetini yuklab oling va uni Pandas DataFrame sifatida yuklab oling. Keyingi, ma’lumotlarni tahlil qiling va qandaydir bir xulosa toping.
+Machine Learning with Scikit-Learn: Iris datasetini yuklab oling va uni Scikit-Learn kutubxonasida mavjud bo’lgan bir nechta algoritmlar bilan sinab ko’ring.
+Image Processing with OpenCV: Rasmni yuklab oling va uni OpenCV yordamida o’zgartiring (masalan, ranglarni o’zgartirish, filtrlar qo’shish).
+Natural Language Processing with NLTK: Matnni yuklab oling va NLTK kutubxonasida mavjud bo’lgan asosiy NLP jarayonlarini bajaring (masalan, tokenizatsiya, stemming).
+Web Scraping with BeautifulSoup: Ma’lum bir veb-sahifani tanlang va uning ma’lumotlarini BeautifulSoup yordamida yig’ing.
+Game Development with Pygame: Oddiy bir o’yin yaratishga harakat qiling, masalan, “Snake” o’yini.
+GUI Development with Tkinter: Oddiy bir foydalanuvchi interfeysi yaratishga harakat qiling, masalan, kalkulyator.
+Scientific Computing with NumPy: NumPy kutubxonasida mavjud bo’lgan asosiy funksiyalar bilan tanishing.
+Web Development with Django: Oddiy bir veb-sayt yaratishga harakat qiling, masalan, blog.
+Automation with Python Scripting: Python skriptini yozishga harakat qiling, masalan, fayllarni avtomatlashtirish.
+
+Web Programming:
+Responsive Web Design with Bootstrap: Bootstrap kutubxonasini ishlatib responsiv veb-sahifa yaratish.
+Frontend Development with React.js: Oddiy bir React komponentini yaratish.
+Backend Development with Node.js: Node.js-da oddiy bir server yaratish.
+Full Stack Development with MERN Stack: MERN Stack kutubxonalarini ishlatib to’liq stack loyiha yaratish.
+Progressive Web Apps (PWA): Oddiy bir PWA yaratish.
+Serverless Architecture with AWS Lambda: AWS Lambda funksiyasini yaratish va uni ishga tushirish.
+E-commerce Website Development: E-commerce veb-saytining prototipini yaratish.
+Blogging Platform Development: Blog platformasining prototipini yaratish.
+Real-time Chat Application with Socket.IO: Real-time chat ilovasini yaratish.
+Web Security and Authentication: Veb-sayt uchun autentifikatsiya va xavfsizlikni qo’shish.

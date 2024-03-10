@@ -1,0 +1,17 @@
+{% extends 'main.html' %}
+
+{% block title %}
+	PupilsPage
+{% endblock %}
+
+{% block content %}
+    <div style="text-align: center" class="container-fluid">
+        <h3>
+            <p>Pupil {{ points.name }} to</p>
+            <p> first answer points:{{ points.bir }},</p>
+            <p> second answer points:{{ points.ikki }},</p>
+            <p> third answer points:{{ points.uch }}</p>
+        </h3>
+            <h1>All points={{ points.jami }}</h1>
+    </div>
+{% endblock %}
